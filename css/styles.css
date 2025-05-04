@@ -627,8 +627,9 @@ img {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   width: 288px;
-  margin-bottom: 72px;
   text-align: left;
+  margin: 0 auto;
+  margin-bottom: 72px;
 }
 .logo-part {
   color: #f4f4fd;
@@ -694,7 +695,8 @@ img {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   padding-left: 16px;
   outline: transparent;
-  margin-bottom: 16px;
+  margin: 0 auto 16px;
+  display: block;
 }
 .ubscribe-area-footer::placeholder {
   color: #fff;
