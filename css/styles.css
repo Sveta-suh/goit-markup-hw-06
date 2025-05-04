@@ -745,6 +745,7 @@ img {
   .footercon {
     display: flex;
     flex-direction: column;
+    margin-left: 108px;
   }
   .footer-container {
     text-align: left;
